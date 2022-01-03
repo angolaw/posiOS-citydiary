@@ -1,5 +1,9 @@
 # Dados do Aluno
 
+- Nome: Willian de Santana Angola
+- Curso: Pós Graduação em Desenvolvimento Mobile
+- Turma: Desenvolvimento Nativo para iOS - 03/12/21 até 11/01/22
+
 # Proposta do APP
 
 A proposta é que você crie um aplicativo onde o usuário poderá registrar qualquer problema que ele avistar em seu bairro ou em sua cidade. Encontrou um semáforo com defeito? Uma placa de trânsito quebrada? Buraco na rua ou na calçada? Lixeira danificada? Abra o app e registre esse problema (com foto, localização e demais informações) para que posteriormente você possa entrar em contato com o órgão responsável.
