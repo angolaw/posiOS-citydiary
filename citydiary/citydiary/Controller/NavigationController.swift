@@ -13,8 +13,7 @@ class NavigationController: UINavigationController {
 
         if #available(iOS 13.0, *) {
             let app = UIApplication.shared
-            let statusBarHeight: CGFloat = app.statusBarFrame.size.height
-
+            let statusNarHeight: CGFloat = view.window?.windowScene?.statusBarManager?.statusBarFrame.height ?? 0
             let statusbarView = UIView()
             statusbarView.backgroundColor = UIColor(named: "AccentColor")
             statusbarView.tintColor = .white
